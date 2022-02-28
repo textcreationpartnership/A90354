@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pedegree and descent of His Excellency, General George Monck. Setting forth how he is descended from King Edvvard the Third, by a branch and slip of the white rose, the House of York. And likewise, his extraction from Richard King of the Romans. With the state, title and descents of the houses of York and Lancaster in their several branches.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90354</idno>
+            <idno type="STC">Wing P1048</idno>
+            <idno type="STC">Thomason E1015_9</idno>
+            <idno type="STC">ESTC R203171</idno>
+            <idno type="EEBO-CITATION">99863228</idno>
+            <idno type="PROQUEST">99863228</idno>
+            <idno type="VID">115418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115418)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pedegree and descent of His Excellency, General George Monck. Setting forth how he is descended from King Edvvard the Third, by a branch and slip of the white rose, the House of York. And likewise, his extraction from Richard King of the Romans. With the state, title and descents of the houses of York and Lancaster in their several branches.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Godbid, over against the Blew Anchor in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 3.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Family --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115418:1"/>
+            <pb facs="tcp:115418:1" rendition="simple:additions"/>
+            <p>THE <hi>PEDEGREE</hi> and <hi>DESCENT</hi> OF His EXCELLENCY, General George Monck. Setting forth how He is deſcended from King EDVVARD the Third, by a Branch and Slip of the <hi>WHITE ROSE,</hi> THE Houſe of York. And likewiſe, His Extraction from <hi>RICHARD</hi> KING of the ROMANS.</p>
+            <p>WITH The State, Title and Deſcents of the Houſes of <hi>YORK</hi> and <hi>LANCASTER</hi> in their ſeveral Branches.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Godbid,</hi> over againſt the <hi>Blew Anchor</hi> in <hi>Little Britain.</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115418:2"/>
+            <pb n="3" facs="tcp:115418:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Would not by this following Diſcourſe, be underſtood to have any Deſign, either to ſtir up <hi>Titles</hi> and <hi>Claims</hi> where there is no Right, or to obſcure and ſmother a Right where it is in truth. No, as I well know it to be a <hi>Conteſt</hi> that borders upon Danger; ſo it car<g ref="char:EOLhyphen"/>ries much of Diſhoneſty in it; but this may with ſafety, and without offence, be obſerved, That where Empire and Regiment hath been built with the brittle Materials of <hi>Murther</hi> and <hi>Bloodſhed,</hi> it hath ſeldome proved either proſpe<g ref="char:EOLhyphen"/>rous, or long-lived, as might be cleared by ſeveral Precedents; to paſs by <hi>William the Conque<g ref="char:EOLhyphen"/>rour,</hi> who though he had a numerous Iſſue, yet none of his Sons left a Son either to ſucceed or ſurvive them; and to inſtance in the Houſe of <hi>Lancaſter,</hi> where three of them ſucceſſively ſate in the Throne, the two firſt being held as fit for Government, as any of the Twenty three from the <hi>Conqueſt;</hi> and the third a perſon of that
+<pb n="4" facs="tcp:115418:3"/>
+Innocency, that he attained the Title of a <hi>Saint:</hi> Yet himſelf, and his Son <hi>Edward,</hi> a Prince of great hopes, both died Violent and <g ref="char:V">Ʋ</g>nnatural Deaths. But it is not my purpoſe to inſiſt upon this ſubject, other than to give a brief Accompt of the State and Titles of the two Houſes of <hi>York</hi> and <hi>Lancaſter,</hi> and the ſeveral Branches iſſuing from either of them, as appears by Hiſto<g ref="char:EOLhyphen"/>ry and Records; and amongst others, of that Noble Perſon, General <hi>Monck,</hi> whoſe Prudence and Valour hath raiſed him to a Degree of Ho<g ref="char:EOLhyphen"/>nour and Eſteem ſutable to his Birth and Ho<g ref="char:EOLhyphen"/>nourable Extraction. All which is done without Flattery, or other ſiniſter end, out of love to Truth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:115418:3"/>
+            <head>The Declaration of the Deſcents of the two Houſes of <hi>York,</hi> and <hi>Lancaſter,</hi> in their ſeveral Bran<g ref="char:EOLhyphen"/>ches, <hi>&amp;c.</hi>
+            </head>
+            <p>KIng <hi>Edward</hi> the third married <hi>Philippa</hi> Daughter to <hi>William</hi> Earl of <hi>Henault</hi> and <hi>Holland,</hi> and of his Wife <hi>Mary,</hi> Daughter to <hi>Charles</hi> Earl of <hi>Va<g ref="char:EOLhyphen"/>loys,</hi> Son to King <hi>Philip</hi> the Hardy, and Bro<g ref="char:EOLhyphen"/>ther to <hi>Philip</hi> of <hi>Valoys</hi> King of <hi>France;</hi> ſhe was married to King <hi>Edward</hi> at <hi>York,</hi> the four and twen<g ref="char:EOLhyphen"/>tieth of <hi>January, An.</hi> 1327. and Crowned at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> the firſt Sunday in Lent following; it is ſaid this match was made up in haſt by Queen <hi>Iſabel,</hi> King <hi>Edward</hi>'s mother, for her own Ends; yet ac<g ref="char:EOLhyphen"/>cording to ſome Opinions, a better could never have been made, upon deliberation for K. <hi>Edwards</hi> Ends; for albeit her Extraction was not great, and her Dower leſs, yet ſhe made amends for both by her vertue; never King having a better Wife: by her K. <hi>Edward</hi> had iſſue ſeven Sons and five Daughters, which were, Firſt,</p>
+            <p>
+               <hi>Edward</hi> Prince of <hi>Wales,</hi> commonly called the Black Prince; not that he was ſo in Complexion, but from
+<pb n="6" facs="tcp:115418:4"/>
+his Heroick and dreadful Acts; He was born at <hi>Wood-ſtock</hi> the fifteenth of <hi>July,</hi> in the third year of his Fa<g ref="char:EOLhyphen"/>thers reign, and ſhortly after created Prince of <hi>Wales,</hi> Duke of <hi>Aquitane,</hi> and <hi>Cornwall,</hi> and Earl of <hi>Cheſter;</hi> and in his wives Right Earl of <hi>Kent;</hi> which was <hi>Joan</hi> the Daughter and Heir of <hi>Edmund Plantaginet</hi> Earl of <hi>Kent,</hi> and of his Wife <hi>Margaret</hi> Siſter and Heir of <hi>Thomas</hi> Lord <hi>Wake;</hi> ſhe was a Lady of that admired beauty, in that age, that ſhe was commonly called The Fair Maid of <hi>Kent:</hi> By her Prince <hi>Edward</hi> had iſſue two Sons, <hi>Edward</hi> that died young; and <hi>Richard</hi> born at <hi>Burdeaux,</hi> who after the death of his father was Prince of <hi>Wales,</hi> and after the death of his Grandfather was King of <hi>England,</hi> and known by the Name of King <hi>Richard</hi> the ſecond.</p>
+            <p>
+               <hi>William</hi> Sirnamed <hi>Hatfield,</hi> ſecond Son to K. <hi>Edward</hi> the third, and Queen <hi>Philippa</hi> died young, and was buried at <hi>York.</hi>
+            </p>
+            <div type="part">
+               <head>The Houſe of <hi>YORK.</hi>
+               </head>
+               <p>
+                  <hi>LIonel,</hi> the third Son to King <hi>Edward</hi> the third and Queen <hi>Philippa,</hi> was born at the City of <hi>Antwerp,</hi> the 29<hi rend="sup">th</hi> of November, in the twelfth year of his fathers reign; He married <hi>Elizabeth,</hi> daughter and heir of <hi>William Burgh</hi> Earl of <hi>Ulſter</hi> in <hi>Ireland;</hi> and becauſe he had by her the Honour of <hi>Clave</hi> in the County of <hi>Tho<g ref="char:EOLhyphen"/>mond,</hi> he was in Parliament made Duke of <hi>Clarence;</hi> from which Dutchy the name of <hi>Clarencieux</hi> (being the Title of King of Arms for the South parts of <hi>England</hi>) is derived. This Duke had iſſue by her onely one daughter his heir, named <hi>Philippa,</hi> who was married to <hi>Edmund</hi> Lord <hi>Mortimer</hi> Earl of <hi>March,</hi> and in her right
+<pb n="7" facs="tcp:115418:4"/>
+was Earl of <hi>Ulſter,</hi> and had iſſue by her three Sons, which were,</p>
+               <p>Firſt, <hi>Roger Mortimer</hi> Earl of <hi>March</hi> and <hi>Ulſter,</hi> and by Parliament in the 9th of King <hi>Richard</hi> the ſecond, appointed his Succeſſor in the Kingdom of <hi>England,</hi> and ſhortly after ſo proclaimed.</p>
+               <p>Sir <hi>Edmund Mortimer</hi> Knight, ſecond ſon: and Sir <hi>John Mortimer</hi> Knight, third ſon, Beheaded 3 <hi>Hen</hi> 6.</p>
+               <p>
+                  <hi>Roger Mortimer</hi> aforeſaid Earl of <hi>March</hi> and <hi>Ulſter,</hi> married <hi>Eleanor</hi> Daughter of <hi>Thomas Holland</hi> Earl of <hi>Kent;</hi> and by her had Iſſue <hi>Edmund,</hi> and <hi>Roger Mortimer,</hi> that died without Iſſue: and <hi>Anne</hi> his Daughter that after her Brothers death, became Heir to a goodly in<g ref="char:EOLhyphen"/>heritance, and was married to <hi>Richard Plantaginet</hi> Sir<g ref="char:EOLhyphen"/>named <hi>Coningsburgh</hi> Earl of <hi>Cambridge;</hi> by whom he had iſſue <hi>Richard Plantaginet</hi> Duke of <hi>York,</hi> and <hi>Iſabel</hi> a Daughter married to <hi>Henry</hi> Lord <hi>Bourcheir</hi> Earl of <hi>Eſſex.</hi>
+               </p>
+               <p>
+                  <hi>Richard</hi> Duke of <hi>York,</hi> and Earl of <hi>Cambridge,</hi> was Lieutenant to King <hi>Henry</hi> the ſixth, in his Kingdom of <hi>France,</hi> and Dutchie of <hi>Normandy,</hi> and was the firſt of the Houſe of <hi>York,</hi> that raiſed that grievous war againſt the houſe of <hi>Lancaſter,</hi> and gave for his Cognizance the White Roſe. He married <hi>Cecily</hi> Daugh<g ref="char:EOLhyphen"/>ter to <hi>Ralph Nevil,</hi> the firſt Earl of <hi>Weſtmerland,</hi> by whom he had iſſue <hi>Edward</hi> firſt Son, King of <hi>England</hi> by the Name of,</p>
+               <p n="1">1. King <hi>Edward</hi> the fourth.</p>
+               <p n="2">2. <hi>Edmund,</hi> ſecond Son, Earl of <hi>Rutland,</hi> ſlain at the Battel of <hi>Wakefield</hi> by the Lord <hi>Clifford.</hi>
+               </p>
+               <p n="3">3. <hi>George Plantaginet,</hi> third Son, Duke of <hi>Clarence,</hi> Earl of <hi>Warwick</hi> and <hi>Salisbury,</hi> in the Right of his Wife <hi>Iſabel,</hi> eldeſt Daughter and Coheir of <hi>Richard Nevil</hi>
+                  <pb n="8" facs="tcp:115418:5"/>
+Earl of <hi>Salisbury,</hi> by whom he had iſſue <hi>Edward</hi> Earl of <hi>Warwick,</hi> beheaded by King <hi>Henry</hi> the ſeventh, leaving no iſſue: and <hi>Margaret</hi> Counteſs of <hi>Salisbury</hi> married to Sir <hi>Richard Pool</hi> Knight, ſhe was beheaded by King <hi>Hen.</hi> 8.</p>
+               <p n="4">4. <hi>Richard Plantaginet,</hi> fourth Son to <hi>Richard</hi> Duke of <hi>York;</hi> was firſt Duke of <hi>Gloceſtor,</hi> and after King of <hi>England,</hi> known by the Name of King <hi>Richard</hi> the third, who died without iſſue to ſurvive him.</p>
+               <p>
+                  <hi>Richard</hi> Duke of <hi>York</hi> aforeſaid had four Daughters, which were</p>
+               <p n="1">1. <hi>Anne,</hi> married to <hi>Henry Holland</hi> Duke of <hi>Exeter,</hi> firſt; ſecondly, to Sir <hi>Thomas St. Leoger</hi> Knight, by whom ſhe had daughter and heir, married to <hi>Thomas Manners</hi> Lord <hi>Roſs.</hi>
+               </p>
+               <p n="2">2. <hi>Elizabeth,</hi> ſecond daughter, married to <hi>John de la Pool</hi> Duke of <hi>Suffolk.</hi>
+               </p>
+               <p n="3">3. <hi>Margaret,</hi> the third daughter, married to <hi>Charles</hi> Duke of <hi>Burgundy.</hi>
+               </p>
+               <p>And 4. <hi>Urſula</hi> was the fourth daughter.</p>
+               <p>King <hi>Edward</hi> the fourth aforeſaid married <hi>Elizabeth</hi> daughter to <hi>Richard Woodvile</hi> Earl <hi>Rivers,</hi> (Widow to Sir <hi>John Grey</hi> Knight) by whom he had iſſue three ſons and ſeven daughters.</p>
+               <p>
+                  <hi>Edward,</hi> eldeſt ſon to King <hi>Edward</hi> and Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> was preſently after his fathers death, with his brother the Duke of <hi>York,</hi> moſt barbarouſly murther<g ref="char:EOLhyphen"/>ed in the Tower of <hi>London</hi> by their unnatural Uncle, <hi>Richard</hi> Duke of <hi>Gloceſter,</hi> that was left their Prote<g ref="char:EOLhyphen"/>ctor.</p>
+               <p>
+                  <hi>George Plantaginet,</hi> third Son to King <hi>Edward</hi> the fourth, and his Wife Queen <hi>Elizabeth,</hi> was Duke of <hi>Bedford,</hi> and died young.</p>
+               <p n="1">
+                  <pb n="9" facs="tcp:115418:5"/>1. <hi>Elizabeth,</hi> eldeſt daughter to King <hi>Edward</hi> the fourth, and his wife Queen <hi>Elizabeth,</hi> was married to <hi>Henry</hi> Earl of <hi>Richmond,</hi> after King of <hi>England,</hi> known by the name of King <hi>Henry</hi> the ſeventh.</p>
+               <p n="2">2. <hi>Cecile,</hi> ſecond Daughter to King <hi>Edward</hi> the fourth, and Queen <hi>Elizabeth,</hi> was married to <hi>John</hi> Lord Viſcount <hi>Wells;</hi> but died without any iſſue.</p>
+               <p n="3">3. <hi>Ann,</hi> the third Daughter of King <hi>Edward</hi> the fourth, and Queen <hi>Elizabeth,</hi> was married to <hi>Thomas</hi> Duke of <hi>Norfolk,</hi> and had by him two Sons that died without iſſue.</p>
+               <p n="4">4. <hi>Bridget,</hi> the fourth Daughter to King <hi>Edward</hi> the fourth, and Queen <hi>Elizabeth,</hi> was a Nun at <hi>Dartford</hi> in <hi>Kent.</hi>
+               </p>
+               <p n="5">5. &amp; 6. <hi>Mary,</hi> and <hi>Margaret,</hi> the 5. and 6. Daughters died young.</p>
+               <p n="7">7. <hi>Katharine,</hi> the ſeventh Daughter to K. <hi>Edward</hi> the fourth, and Queen <hi>Elizabeth,</hi> was married to <hi>Will. Courtney</hi> Earl of <hi>Devonſhire,</hi> who by her had iſſue <hi>Henry Courtney</hi> Earl of <hi>Devon,</hi> and Marqueſs of <hi>Exceſter,</hi> that was beheaded by King <hi>Henry</hi> the eighth, and was fa<g ref="char:EOLhyphen"/>ther to <hi>Edward Courtney</hi> the laſt Earl of <hi>Devonſhire,</hi> and Marqueſs of <hi>Exceſter,</hi> of that family who died without iſſue.</p>
+               <p>King <hi>Edward</hi> the fourth had a Natural Daughter, whoſe name was <hi>Elizabeth,</hi> ſhe was married to Sir <hi>Tho. Lumley</hi> Knight, who by her had iſſue <hi>Richard</hi> Lord <hi>Lumley,</hi> &amp;c.</p>
+               <p>King <hi>Edward</hi> the fourth, had alſo a Natural Son called <hi>Arthur Plantaginet;</hi> and as is by General conſent affirmed he had him by his Concubine the Lady <hi>Eliz. Lucy;</hi> This <hi>Arthur</hi> married <hi>Elizabeth,</hi> Siſter and Heir of <hi>John Grey</hi> Viſcount <hi>Liſle,</hi> (Widow of <hi>Edm. Dudley</hi>)
+<pb n="10" facs="tcp:115418:6"/>
+and in that reſpect he was by King <hi>Henry</hi> the Eighth, created Viſcount <hi>Liſle,</hi> and had iſſue by her three Daughters his Coheirs: which were, <hi>Elizabeth</hi> married to Sir <hi>Francis Jobſon</hi> of <hi>Weſtmerland</hi> Knight, Lieute<g ref="char:EOLhyphen"/>nant of the <hi>Tower</hi> of <hi>London,</hi> whoſe Heir General is <hi>Edward Brock</hi> of <hi>Apſal</hi> in <hi>Suffolk</hi> Eſquire, who is de<g ref="char:EOLhyphen"/>ſcended of a younger Brother of the ancient family of <hi>Brook</hi> Lord <hi>Cobham.</hi>
+               </p>
+               <p>
+                  <hi>Frances,</hi> another Daughter and Coheir of the ſaid <hi>Arthur Plantaginet,</hi> was married firſt to <hi>John Baſſet</hi> in the County of <hi>Devon:</hi> by whom ſhe had Sir <hi>Arthur Baſſet</hi> Knight, <hi>&amp;c.</hi> ſhe after married to Sir <hi>Thomas Monck</hi> of <hi>Potheridge,</hi> in the aforeſaid County of <hi>Devon:</hi> which Sir <hi>Thomas</hi> was the Son of <hi>Anthony,</hi> the Son and Heir of <hi>Humphery Monck</hi> of <hi>Potheridge,</hi> and of his Wife <hi>Mary,</hi> Daughter and Coheir of <hi>Rich. Champernoon</hi> in <hi>Cornwall,</hi> by the Daughter and Coheir of Sir <hi>John Lumley</hi> Knight, and of his Wife the Daughter and Coheir of Sir <hi>Humphrey Talbot</hi> Knight, which <hi>Richard Champernoon</hi> was Son to <hi>Richard,</hi> Son of <hi>John,</hi> third Son to <hi>Richard,</hi> Son to <hi>Henry,</hi> Son to <hi>Thomas,</hi> Son of <hi>Richard,</hi> and <hi>Joan</hi> his Wife Daughter and Heir of <hi>Ralph Vantort,</hi> and of his Wife <hi>Joan,</hi> Daughter to <hi>Edmund</hi> Earl of <hi>Cornwall,</hi> Son to <hi>Richard</hi> King of the <hi>Romans:</hi> Sir <hi>Thomas Monck</hi> aforeſaid, had iſſue <hi>Anthony Monck,</hi> firſt Son: (and ſeveral other Children) from whom is deſcended <hi>George Monck</hi> Lord of <hi>Potheridge,</hi> and at this time, the Famous and moſt Renowned General.</p>
+               <p>
+                  <hi>Bridget,</hi> the third daughter and Coheir of <hi>Arthur Plantaginet,</hi> was married to Sir <hi>William Cardon</hi> Knight. There is a ſtory of this <hi>Arthur,</hi> which may to ſome ſeem worthy the relating, and it is this: He being Lieute<g ref="char:EOLhyphen"/>nant
+<pb n="11" facs="tcp:115418:6"/>
+of <hi>Callis,</hi> and ſome of his ſervants having a de<g ref="char:EOLhyphen"/>ſign to betray the ſaid Town to the French; which be<g ref="char:EOLhyphen"/>ing diſcovered to the King and his Council, he was committed Priſoner to the Tower of <hi>London,</hi> but after ſearch and due Examination of the buſineſs, the truth appeared, which cleared his Innocency; and thereupon King <hi>Henry</hi> the eighth ſent him a rich Ring from off his own Finger, with a Meſſage to aſſure him, That he was fully ſatisfied of his Loyalty, and therefore adviſed him not to be caſt down and dejected at his Impriſonment, but to reſt confident of his favour, that would ſuddenly procure his enlargement: Which token of the Kings favour, and news of his freedome from priſon, he en<g ref="char:EOLhyphen"/>tertain'd with ſuch joy, that the very ſame night he died with the exceſs of the ſame.</p>
+               <p>This is the Title, and theſe are the ſeveral Branches and Slips of the White Roſe of the Houſe of <hi>York:</hi> Now follows the Title and Deſcent of the Houſe of <hi>Lancaſter.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Houſe of <hi>LANCASTER.</hi>
+               </head>
+               <p>
+                  <hi>IOhn</hi> of <hi>Gaunt,</hi> (fourth Son to King <hi>Edward</hi> the third and Queen <hi>Philippa</hi>) ſo called from the Town of <hi>Gaunt</hi> in <hi>Flanders,</hi> where he was born in the fourteenth year of his fathers Reign. He was in his childhood created Earl of <hi>Richmond;</hi> which Title was after re<g ref="char:EOLhyphen"/>called, and beſtowed upon <hi>John</hi> Duke of <hi>Britain,</hi> who had married his Siſter, and to whoſe Dutchy it had formerly belonged. This <hi>John</hi> of <hi>Gaunt</hi> had three wives; the firſt was <hi>Blanch,</hi> daughter, and in the end, ſole heir to <hi>Henry</hi> Duke of <hi>Lancaſter</hi> (ſon of <hi>Edmund</hi> ſirnamed <hi>Crook-back</hi>) and in her right was at firſt Earl,
+<pb n="12" facs="tcp:115418:7"/>
+and after Duke of <hi>Lancaſter,</hi> &amp;c. and by her had iſſue <hi>Henry Plantaginet,</hi> ſirnamed <hi>Bullingbrook,</hi> of the place where he was born in <hi>Lincolnſhire:</hi> He was Earl of <hi>Der<g ref="char:EOLhyphen"/>by,</hi> Duke of <hi>Hereford,</hi> and after King of <hi>England,</hi> known by the name of King <hi>Henry</hi> the fourth, <hi>&amp;c.</hi> The ſaid <hi>John</hi> Duke of <hi>Lancaſter</hi> had two daughters; <hi>Viz.</hi>
+               </p>
+               <p n="1">1. <hi>Philippa,</hi> married to <hi>John</hi> King of <hi>Portugal.</hi>
+               </p>
+               <p n="2">2. <hi>Elizabeth,</hi> married firſt to <hi>John Holland</hi> Duke of <hi>Exeter;</hi> ſecondly to Sir <hi>John Cornwall</hi> Baron <hi>Fanhop.</hi>
+               </p>
+               <p>The ſecond wife of <hi>John</hi> of <hi>Gaunt</hi> Duke of <hi>Lanca<g ref="char:EOLhyphen"/>ſter,</hi> was <hi>Conſtance,</hi> daughter and Coheir of <hi>Peter</hi> King of <hi>Caſtile</hi> and <hi>Leon,</hi> by whom he had iſſue <hi>Katharine,</hi> heir to her Mothers Inheritance, that was married to <hi>Henry,</hi> ſon to <hi>John</hi> King of Spain.</p>
+               <p>The third wife of <hi>Iohn</hi> of <hi>Gaunt</hi> aforeſaid, was <hi>Ka<g ref="char:EOLhyphen"/>tharine,</hi> daughter and Coheir of <hi>Wayne Roet</hi> a <hi>Gaſcoigne, Guien</hi> King of Arms for that Countrey (Widow to Sir <hi>Hugh Swinford</hi> a Knight of Lincolnſhire, by whom he had iſſue three ſons and one daughter.</p>
+               <p n="1">1. <hi>Iohn Beauford</hi> Earl of <hi>Somerſet,</hi> firſt ſon of <hi>Iohn</hi> of <hi>Gaunt</hi> and <hi>Katharine Swinford.</hi>
+               </p>
+               <p n="2">2. <hi>Thomas Beauford,</hi> ſecond ſon, Duke of <hi>Exeter.</hi>
+               </p>
+               <p n="3">3. <hi>Henry Beauford,</hi> third ſon, was Biſhop of <hi>Winche<g ref="char:EOLhyphen"/>ſter.</hi>
+               </p>
+               <p>
+                  <hi>Ioan,</hi> daughter of <hi>Iohn</hi> of <hi>Gaunt</hi> and <hi>Katharine Swin<g ref="char:EOLhyphen"/>ford,</hi> was married firſt to <hi>Robert</hi> Lord <hi>Ferrers</hi> of <hi>Ouſtey;</hi> ſecondly, to <hi>Ralph Nevil</hi> the firſt Earl of <hi>Weſtmerland,</hi> who by her had iſſue eight ſons and five daugh<g ref="char:EOLhyphen"/>ters, <hi>&amp;c.</hi>
+               </p>
+               <p>Theſe three Sons, and the Daughter of <hi>John</hi> of <hi>Gaunt</hi> and <hi>Katharine Swinford,</hi> were born before Mar<g ref="char:EOLhyphen"/>riage, and were made Legitimate by Act of Parliament,
+<pb n="13" facs="tcp:115418:7"/>
+in the twentieth year of King <hi>Richard</hi> the ſecond, and they were named <hi>Beauford,</hi> of a Caſtle ſo called, which the Duke of <hi>Lancaſter</hi> had in <hi>France,</hi> where they were all born.</p>
+               <p>
+                  <hi>John Beaufort</hi> afore-mentioned, was alſo Marqueſs <hi>Dorſet,</hi> and married <hi>Margaret</hi> Daughter to <hi>Thomas Holland</hi> Earl of <hi>Kent,</hi> by whom he had iſſue <hi>Henry,</hi> that died without iſſue, and <hi>John Beauford</hi> ſecond Son Earl and Duke of <hi>Somerſet,</hi> who married <hi>Margaret</hi> Daughter of Sir <hi>John Beauchamp</hi> of <hi>Bletſo</hi> Knight, by whom he had iſſue <hi>Margaret,</hi> his Daughter and Heir married to <hi>Edmund Tudor,</hi> Sirnamed <hi>Hadham</hi> Earl of <hi>Richmond,</hi> by whom he had iſſue, <hi>Henry</hi> Earl of <hi>Richmond,</hi> and after King of <hi>England,</hi> called <hi>Henry</hi> the ſeventh.</p>
+               <p>
+                  <hi>Iohn</hi> Marqueſs <hi>Dorſet</hi> had two Daughters, <hi>viz. Ioan</hi> married to <hi>Iames,</hi> the firſt King of <hi>Scots;</hi> and <hi>Margaret</hi> the ſecond, married to <hi>Thomas Courtney</hi> Earl of <hi>Devon<g ref="char:EOLhyphen"/>ſhire.</hi>
+               </p>
+               <p>
+                  <hi>Edmund Beaufort,</hi> third Son to <hi>Iohn</hi> Marqueſs <hi>Dorſet,</hi> was Earl of <hi>Moriton</hi> in <hi>Normandy,</hi> and after the death of his Brother <hi>Iohn</hi> Duke of <hi>Somerſet,</hi> and Marqueſs <hi>Dorſet;</hi> He married <hi>Eleanor</hi> Daughter and Coheir of <hi>Richard Beauchamp</hi> Earl of <hi>Warwick,</hi> by whom he had iſſue, four Sons and five Daughters, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Henry Beaufort,</hi> Son and Heir of <hi>Edmund,</hi> was after the death of his Father, Duke of <hi>Somerſet,</hi> and Mar<g ref="char:EOLhyphen"/>queſs <hi>Dorſet,</hi> he died without Legitimate iſſue, but had a Natural Son, called <hi>Charles Somerſet,</hi> whom King <hi>Henry</hi> the eighth, created Earl of <hi>VVorceſter.</hi>
+               </p>
+               <p n="1">1. <hi>Eleanor,</hi> eldeſt Daughter to <hi>Edmund Beaufort</hi> Duke of <hi>Somerſet,</hi> was married firſt to <hi>Iames Butler</hi> Earl of <hi>VViltſhire;</hi> ſecondly, to Sir <hi>Robert Spencer</hi> Knight, one of whoſe Daughters and Coheirs, <hi>Margaret,</hi>
+                  <pb n="14" facs="tcp:115418:8"/>
+was married to <hi>Thomas Cary,</hi> Grandfather to <hi>Henry Cary,</hi> the firſt Baron <hi>Hunſdon.</hi>
+               </p>
+               <p n="2">2. <hi>Ioan,</hi> ſecond daughter of <hi>Edmund</hi> Duke of <hi>Somer<g ref="char:EOLhyphen"/>ſet,</hi> married to the Lord <hi>Hoth</hi> in <hi>Ireland.</hi>
+               </p>
+               <p n="3">3. <hi>Ann,</hi> the third daughter, married to Sir <hi>VVill. Paſton</hi> Knight.</p>
+               <p n="4">4. <hi>Margaret,</hi> the fourth daughter, married to <hi>Hum<g ref="char:EOLhyphen"/>phrey</hi> Earl of <hi>Stafford,</hi> and after to Sir <hi>Richard Darel</hi> Knight.</p>
+               <p n="5">5. <hi>Elizabeth,</hi> or <hi>Iſabel</hi> fifth daughter, married to Sir <hi>Henry Lewis</hi> Knight.</p>
+               <p>This is the deſcent of the ſeveral Branches of the Houſe of <hi>Lancaſter,</hi> who gave for their Cognizance the Red Roſe; by which it appears, that notwithſtan-the Crown of <hi>England</hi> (Upon the depoſing K. <hi>Richard</hi> the ſecond, he having no iſſue) was to deſcend to <hi>Roger Mortimer</hi> Earl of <hi>March</hi> and <hi>Ulſter,</hi> before-men<g ref="char:EOLhyphen"/>tioned; Yet <hi>Henry</hi> of <hi>Bullingbrook,</hi> before ſpoken of, taking advantage of the peoples diſcontents; and the General diſlike they had of his Couſin, King <hi>Richards</hi> evil Government; He places the Crown upon his own head; and from the year <hi>An.</hi> 1399 until the fourth of <hi>March An.</hi> 1460 in three deſcents the ſlips of the Red Roſe in the Line of <hi>Lancaſter,</hi> did ſit in the throne, end bear Rule; And the Eruption of the Houſe of <hi>York,</hi> did never appear, until <hi>Richard Plantaginet</hi> Duke of <hi>York</hi> before-mentioned, upon the twenty third of <hi>March, An.</hi> 1455. drew his ſword to make good his Claim and Title to the Crown, and Kingdome of <hi>England;</hi> from which time iſſued all the murthers, and overthrows, and ſlaughters, that continued until the death of <hi>Richard</hi> the third, in which Bloody conteſt, were ſlain no leſs then fourſcore Princes of the Blood
+<pb n="15" facs="tcp:115418:8"/>
+Royal, and double the Number of Natives as were loſt in all our Wars and Conqueſts in <hi>France.</hi> But theſe Uncivil Civil quarrels had a happy Period, after that <hi>Henry</hi> Earl of <hi>Richmond,</hi> before-mentioned, had over<g ref="char:EOLhyphen"/>thrown King <hi>Richard</hi> the third in <hi>Boſworthfield,</hi> and him<g ref="char:EOLhyphen"/>ſelf in the head of his Army had the Crown ſet upon his head; and ſhortly after, upon the thirtieth of <hi>Octob.</hi> in <hi>An.</hi> 1485. he was with great ſolemnity Anointed and Crowned King of <hi>England,</hi> by the whole conſent of the Nobility and Commons, by the Name of King <hi>Henry</hi> the ſeventh; and on the eighteenth day of <hi>Ia<g ref="char:EOLhyphen"/>nuary</hi> following, was ſolemnized his marriage with the Lady <hi>Elizabeth,</hi> King <hi>Edward</hi> the fourths daughter; which added to his Title a wreath of Three ſo indiſſol<g ref="char:EOLhyphen"/>vable, that no age ſince, hath Ever queſtioned it, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
